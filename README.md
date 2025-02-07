@@ -5,7 +5,7 @@ This project demonstrates a Retrieval Augmented Generation (RAG) system using th
 ## How it Works
 
 1. **Data Loading and Preparation:**
-   - The content of the Wikipedia page about Ohiya is loaded using `WebBaseLoader` from `langchain_community`.
+   - The content of the Wikipedia page about Morocco is loaded using `WebBaseLoader` from `langchain_community`.
    - The loaded content is split into smaller chunks using `RecursiveCharacterTextSplitter` from `langchain`.
    - Embeddings are generated for each chunk using `OllamaEmbeddings` from `langchain_community`, and these embeddings are stored in a `Chroma` vector database for efficient searching.
 
