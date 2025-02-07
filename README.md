@@ -28,15 +28,3 @@ This project demonstrates a Retrieval Augmented Generation (RAG) system using th
    - `gr.Interface` creates the interface with a text box for user input and a text output area for displaying the answers.
    - `iface.launch()` starts the interface, making it accessible in a web browser.
 
-## Dependencies
-
-- `gradio`
-- `ollama`
-- `beautifulsoup4` (although imported, it's unused in this code)
-- `langchain`
-- `langchain_community`
-- `chromadb`
-
-## Usage
-
-1. Install the required dependencies:
