@@ -1,0 +1,5 @@
+requests
+transformers
+datasets
+faiss-cpu
+torch
