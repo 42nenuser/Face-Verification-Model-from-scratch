@@ -33,6 +33,9 @@ where:
 - \( m \) is a margin value to prevent collapsing the embeddings.
 
 ### **4. Model Architecture**
+
+![Alt text](model-architecture.png)
+
 Our Siamese network consists of:
 - **Convolutional layers:** Feature extraction with ReLU activation.
 - **Max pooling layers:** Downsampling to retain important spatial features.
