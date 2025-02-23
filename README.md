@@ -1,3 +1,10 @@
+🚀 Current Progress & Next Steps
+
+✅ Current Status: The model has been trained successfully.
+⏳ Next Steps: The next phase is to develop a UI to visualize the results interactively.
+
+
+
 # Siamese Neural Networks for One-shot Face Verification
 
 ## 📖 Theoretical Overview
