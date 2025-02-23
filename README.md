@@ -1,6 +1,9 @@
-🚀 Current Progress & Next Steps
+
+🚀 Current Progress & Next Steps:
 
 ✅ Current Status: The model has been trained successfully.
+
+
 ⏳ Next Steps: The next phase is to develop a UI to visualize the results interactively.
 
 
